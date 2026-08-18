@@ -64,7 +64,3 @@ flutter run
 ## Flutter Sürümü
 
 Flutter 3.x+ ile uyumludur.
-
-## Lisans
-
-Eğitim amaçlı geliştirilmiştir.
