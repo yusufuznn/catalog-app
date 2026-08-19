@@ -47,7 +47,7 @@ lib/
 
 1. Depoyu klonlayın:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/yusufuznn/catalog-app.git>
 cd mini_katalog
 ```
 
